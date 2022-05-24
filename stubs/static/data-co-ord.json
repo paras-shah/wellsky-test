@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "name": "Dhaka",
+        "latitude": "23.811056",
+        "longitude": "90.407608"
+    },
+    {
+        "id": "2",
+        "name": "Khunla",
+        "latitude": "22.820000",
+        "longitude": "89.550003"
+    },
+    {
+        "id": "3",
+        "name": "Gazipur",
+        "latitude": "23.999941",
+        "longitude": "90.420273"
+    },
+    {
+        "id": "4",
+        "name": "Sonargaon",
+        "latitude": "23.644480",
+        "longitude": "90.598434"
+    },{
+        "id": "5",
+        "name": "Panchgarh",
+        "latitude": "26.335377",
+        "longitude": "88.551697"
+    }
+]
